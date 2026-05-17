@@ -9,16 +9,20 @@
 
 ### 🛠 Compétences techniques
 
-**💻 Langages de programmation** (+ Raylib pour le Game Dev)
+### 💻 Langages de programmation
+
 [![Langages](https://skillicons.dev/icons?i=cpp,c,cs,js,ts,html,css,java,py)](https://skillicons.dev)
 
-**⚙️ Frameworks & Bases de données**
+### ⚙️ Frameworks & Bases de données
+
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,postgres)](https://skillicons.dev)
 
-**🛠 IDEs & Outils de développement**
+### 🛠 IDEs & Outils de développement
+
 [![Outils](https://skillicons.dev/icons?i=visualstudio,vscode,clion,git,github,cmake,bash)](https://skillicons.dev)
 
-**🖥 Systèmes d'exploitation & Design**
+### 🖥 Systèmes d'exploitation & Design
+
 [![OS & Design](https://skillicons.dev/icons?i=windows,apple,linux,figma)](https://skillicons.dev)
 
 ---
