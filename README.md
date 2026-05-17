@@ -9,11 +9,18 @@ I am a first-year **B.U.T. Informatique** student at Université Sorbonne Paris 
 
 ### About Me
 
-My journey into computer science started with a passion for **Game Development**, which taught me the importance of code efficiency and rigor. I particularly enjoy programming in **C++** for the discipline it requires in memory management and logic. 
+My fascination with technology began with a simple question: *How does it work?* This curiosity naturally led me to **Systems Programming**, where I discovered that the most elegant solutions are often found in the fine details of memory management and performance optimization.
 
-Today, I leverage that "low-level" mindset to build high-performance **Web Applications**. I find a unique satisfaction in the immediate visual feedback of web development, combined with the technical challenge of building responsive systems.
+I built my technical foundation using **C++**, a language that taught me the importance of discipline and rigorous logic. While my first projects involved building game engines and classic arcade clones from scratch, these experiences were more than just about "gaming"—they were my first deep dive into **real-time rendering, collision physics, and software architecture**.
 
-When I'm not coding, I'm likely analyzing frame data in **Fighting Games** like *Street Fighter*, *Brawlhalla*, or *Smash Bros*. This competitive background fuels my obsession with low-latency and precision—principles I am currently applying to my typing engine, **Typovel**.
+Today, I’m channeling that "low-level" rigor into **Modern Web Development**. I specialize in creating web applications where performance isn't an afterthought, but a core feature. Whether I’m working on a database schema in **PostgreSQL** or building a responsive UI, I always strive for that perfect balance between technical robustness and visual satisfaction.
+
+**What drives me:**
+* **Precision & Feedback:** I have a strong interest in high-frequency interaction systems. This is best reflected in my current project, **Typovel**, a typing engine where I apply my knowledge of low-latency execution to create a seamless user experience.
+* **Continuous Learning:** Transitioning from JavaScript to **TypeScript** and exploring the **.NET** ecosystem are my current technical milestones. I believe that being a great developer means being a perpetual student.
+* **Technical Discipline:** My background in competitive environments (such as analyzing frame data in fighting games) has shaped my professional mindset: stay focused, be precise, and always look for the most optimized path.
+
+Based in Paris, I am now looking for a **long-term apprenticeship** (starting Sept 2026) where I can bring my technical curiosity and commitment to excellence to a professional team.
 
 ---
 
